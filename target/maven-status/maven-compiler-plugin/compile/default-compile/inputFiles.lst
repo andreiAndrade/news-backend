@@ -1,0 +1,12 @@
+/Users/andreiandrade/Projects/news-backend/src/main/java/com/tcc/news/dto/CategoriesDto.java
+/Users/andreiandrade/Projects/news-backend/src/main/java/com/tcc/news/dto/RefreshTokenResponseDto.java
+/Users/andreiandrade/Projects/news-backend/src/main/java/com/tcc/news/controller/FeedController.java
+/Users/andreiandrade/Projects/news-backend/src/main/java/com/tcc/news/controller/AuthController.java
+/Users/andreiandrade/Projects/news-backend/src/main/java/com/tcc/news/service/consumer/AbstractServiceConsumer.java
+/Users/andreiandrade/Projects/news-backend/src/main/java/com/tcc/news/service/consumer/CategoriesConsumer.java
+/Users/andreiandrade/Projects/news-backend/src/main/java/com/tcc/news/NewsApplication.java
+/Users/andreiandrade/Projects/news-backend/src/main/java/com/tcc/news/utils/FeedlyApi.java
+/Users/andreiandrade/Projects/news-backend/src/main/java/com/tcc/news/dto/FeedDto.java
+/Users/andreiandrade/Projects/news-backend/src/main/java/com/tcc/news/service/logic/FeedService.java
+/Users/andreiandrade/Projects/news-backend/src/main/java/com/tcc/news/service/logic/AuthService.java
+/Users/andreiandrade/Projects/news-backend/src/main/java/com/tcc/news/service/consumer/AuthConsumer.java
